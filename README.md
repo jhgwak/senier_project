@@ -31,4 +31,3 @@ Haar Cascade 는 논문상으로는 200개의 특징만으로 90%의 정확도�
  <img width="630" alt="스크린샷 2021-11-04 오후 7 45 36" src="https://user-images.githubusercontent.com/88297412/180801380-da247b23-fc61-4c6b-af5b-512ebcfc7819.png">
 
 <img width="543" alt="스크린샷 2021-11-04 오후 7 11 43" src="https://user-images.githubusercontent.com/88297412/180801418-078edf01-4a7b-4392-8e83-8ad92c7a6ed9.png">
-
